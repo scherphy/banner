@@ -2,5 +2,5 @@ Install:
 
 ```
 $echo 'clear' >> ~/.bashrc
-$echo 'cat banner' >> .bashrc
+$echo 'cat banner' >> ~/.bashrc
 ```
